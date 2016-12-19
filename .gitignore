@@ -1,0 +1,9 @@
+*.pyc
+*.o
+*.so
+.project
+.pydevproject
+skpyext_wrap*
+skpyext.py
+.settings
+
